@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://www.takumoo.com/sitemap.xml
+Sitemap: https://dajyaretakuya.github.io/sitemap.xml
